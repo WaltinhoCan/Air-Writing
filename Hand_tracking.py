@@ -55,15 +55,3 @@ while (1):
 
 cv2.destroyAllWindows()
 cap.release()
-
-
-            #mpDraw.draw_landmarks(img, handLms)
-            #print(handLms.landmark)
-            #print(lm)
-            # print(id)
-            #print(results)
-
-
-
-
-
